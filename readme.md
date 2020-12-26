@@ -1,1 +1,1 @@
-#This is a craigslist clone called... Lubz List.
+#This is a craigslist clone called... Codedaddies List. (Via Lubz List)
